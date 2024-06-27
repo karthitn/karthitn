@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Karthikeyan TN 👋
 
 - 🔭 I’m currently working as a Data Engineer - BI
 - 🌱 I’m currently learning Data Engineering
